@@ -5,6 +5,8 @@ package ie.atu.numbers;
 //Test
 
 // Added changes in Feature1 Branch to test
+
+// Another test for merge conflicts
 public class Numbers {
 
 	//@SuppressWarnings("resource")
