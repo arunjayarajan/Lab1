@@ -2,6 +2,7 @@ package ie.atu.numbers;
 
 //import java.util.Scanner;
 //Added a comment line to test
+//Test
 public class Numbers {
 
 	//@SuppressWarnings("resource")
