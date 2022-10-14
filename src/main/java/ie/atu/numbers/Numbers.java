@@ -9,6 +9,9 @@ package ie.atu.numbers;
 // Another test for merge conflicts
 
 //to test the pull request from GitHub UI
+
+// Testing merge conflicts
+
 public class Numbers {
 
 	//@SuppressWarnings("resource")
