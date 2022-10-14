@@ -3,6 +3,8 @@ package ie.atu.numbers;
 //import java.util.Scanner;
 //Added a comment line to test
 //Test
+
+// Added changes in Feature1 Branch to test
 public class Numbers {
 
 	//@SuppressWarnings("resource")
