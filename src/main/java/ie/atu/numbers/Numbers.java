@@ -7,6 +7,8 @@ package ie.atu.numbers;
 // Added changes in Feature1 Branch to test
 
 // Another test for merge conflicts
+
+//to test the pull request from GitHub UI
 public class Numbers {
 
 	//@SuppressWarnings("resource")
