@@ -12,7 +12,7 @@ package ie.atu.numbers;
 
 // Testing merge conflicts
 
-// Testing the merge conflict on collabroator repo
+// Testing the merge conflict on collabroator repo1
 
 public class Numbers {
 
