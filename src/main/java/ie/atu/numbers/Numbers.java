@@ -43,9 +43,13 @@ public class Numbers {
 		
 	}
 	*/
-	public void main(String[] args) {
+	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		sum(2,3);
+		Numbers abcd = new Numbers();
+		int xyz = abcd.sum(2,3);
+		System.out.println("Sum="+xyz);
+
+
 	}
 
 }
