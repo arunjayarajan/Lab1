@@ -12,6 +12,8 @@ package ie.atu.numbers;
 
 // Testing merge conflicts
 
+// Testing the merge conflict on collabroator repo
+
 public class Numbers {
 
 	//@SuppressWarnings("resource")
