@@ -15,6 +15,8 @@ package ie.atu.numbers;
 //Test merge conflicts for Aravind
 
 //Test1
+//Test2
+
 
 public class Numbers {
 
