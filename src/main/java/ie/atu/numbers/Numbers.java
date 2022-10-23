@@ -16,6 +16,14 @@ package ie.atu.numbers;
 
 //Test merge conflicts for Aravind
 
+//Test1
+<<<<<<< HEAD
+//Test2
+//Test3
+
+=======
+>>>>>>> parent of c4cb338 (Test2)
+
 public class Numbers {
 
 	//@SuppressWarnings("resource")
